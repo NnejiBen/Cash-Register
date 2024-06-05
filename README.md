@@ -6,7 +6,7 @@ FreeCodeCamp's JavaScript course project to build a cash register.
 This is one of the required projects (the fourth) to earn my certification. I built this project using the User Stories provided by freeCodeCamp.
 
 ## Link to live site:
-
+https://nnejiben.github.io/Cash-Register/
 
 ## Other Information:
 
