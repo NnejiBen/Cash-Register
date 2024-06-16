@@ -3,7 +3,7 @@ const changeDue = document.getElementById("change-due");
 const purchaseBtn = document.getElementById("purchase-btn");
 
 // Input variables
-let price = 19.5;  // Update this to match your example
+let price = 19.5;
 let cashPaid;
 
 // Define currency units and values
