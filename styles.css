@@ -190,3 +190,21 @@ main {
     background-color: var(--dark);
     border-radius: 50%;
 }
+
+footer {
+    padding: 1rem;
+}
+
+.attribution {
+    width: 100%;
+    text-align: center;
+    color: var(--grey-DFDFE2);
+}
+
+.attribution a {
+    color: var(--grey-DFDFE2);
+}
+
+.attribution a:hover {
+    color: var(--blue);
+}
