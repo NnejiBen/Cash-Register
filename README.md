@@ -16,6 +16,6 @@ Course title: JavaScript Algorithms and Data Structures (Beta)
 
 Course link: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/
 
-Project completion date: June , 2024
+Project completion date: June 16, 2024
 
 Helpful Resources:
